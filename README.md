@@ -1,2 +1,2 @@
-# first
+# learn
 Practice Repository
